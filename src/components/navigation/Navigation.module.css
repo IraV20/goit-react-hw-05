@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    gap: 12px;
+    list-style: none;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+
+}
+
+.active{
+    color: rgb(233, 83, 57);
+    text-decoration: overline;
+}
