@@ -1,0 +1,11 @@
+.searchBox{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    margin-bottom: 18px;
+}
+
+input{
+    width: 256px;
+
+}

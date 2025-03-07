@@ -1,10 +1,9 @@
-import { Link } from "react-router-dom";
+import { Link } from "react-router-dom"
 
 export default function NotFoundPage() {
     return(
         <div>
-            <p>Sorry, age not found! Please go to <Link to='/'>Home page</Link></p>
+            <p>Sorry, page not found, please go to <Link to='/'>Home Page</Link></p>
         </div>
     )
-    
 }
